@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent AI Search Engine",
+  "description": "An intelligent AI search engine where users can query documents, a knowledge base, or the web. It uses Google's Gemini API to provide grounded, intelligent answers.",
+  "requestFramePermissions": []
+}
